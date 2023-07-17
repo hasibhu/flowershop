@@ -80,7 +80,7 @@
 .image-sidebyside{
     display: flex;
     align-items: center;
-    /* padding: 0 0 0 300px; */
+    padding: 0 200px 0 0px; 
     gap: 10px;
     text-align: center;
     
@@ -92,7 +92,6 @@
     background: rgba(167, 33, 98, 0.15);
     width: 270px;
     height: 390px;
-   
 }
 
 .bunch-flower{
@@ -107,7 +106,6 @@
     background: rgba(167, 33, 98, 0.15);
     width: 270px;
     height: 390px;
-
 }
 /* Design for support part */
 .support{
