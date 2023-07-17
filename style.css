@@ -1,0 +1,266 @@
+.headerpart{
+    background-color: rgba(229, 84, 115, 0.10);
+    width:auto;
+    height: auto;
+    
+}
+
+.banner{
+    display: flex;
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.img1{
+    width: 450px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+.header-h1{
+        font-style: normal;
+        font-size: 55px;
+        font-weight: 700;
+        margin-top: 0;
+        width: 450px;
+}
+.header-paragraph{
+    width: 440px;
+    height: 90px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 20px; 
+}
+
+.btn-primary{
+    background: #E55473;
+}
+
+.banner-button{
+    width: 177px;
+    height: 64px;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 20px;
+    border-color: #E55473;
+
+}
+
+.featured-flowers{
+    padding-top: 90px;
+    
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.featured-flowers-text{
+    /* margin: auto;
+    width: 399px; 
+    height: 10px;
+    align-items: center;
+    padding-bottom: 50px; */
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.image-sidebyside{
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 380px;
+    gap: 10px;
+    text-align: center;
+    
+    
+}
+
+.pink-flower{
+    border-radius: 400px 400px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 270px;
+    height: 390px;
+   
+}
+
+.bunch-flower{
+    border-radius: 400px 400px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 270px;
+    height: 390px;
+}
+
+.yellow-flower{
+    border-radius: 400px 400px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 270px;
+    height: 390px;
+
+}
+/* Design for support part */
+.support{
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; 
+    width: 768px; 
+    height: 250px; 
+    margin: auto;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 45px;
+    margin-bottom: 50px;
+}
+
+.support-img1{
+    padding-left: 66px;
+}
+
+.support-img2{
+    padding-left: 60px;
+
+}
+.support-img3{
+    padding-left: 10px;
+
+}
+
+
+
+/* deal offer part design */
+
+.deal-offer{
+    background-color: rgba(229, 84, 115, 0.10);
+    width:auto;
+    height: auto;
+    
+}
+.deal-offer-heading{
+    text-align: center;
+    font-size: 30px;
+}
+
+#off{
+    color: #E55473;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+
+
+.deal-offer-paragraph{
+    text-align: center;
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    
+
+}
+
+.deal-offer-button{
+    width: 177px;
+    height: 64px;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 20px;
+    border-color: #E55473;
+    margin-top: 30px;
+}
+
+
+
+/* instagram part design */
+
+.instagram{
+    padding-top: 70px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.instagram-text{
+    
+    padding-bottom: 30px; 
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+
+
+/* four images design css */
+
+.four-images{
+
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    gap: 20px;
+    justify-content:center;
+}
+.four-images img{
+
+    width: 245px;
+    height: 315px;
+    padding-bottom: 40px;
+
+}
+
+/* footer design */
+
+.footer-container{
+
+    margin-top: 55px;
+    height: 190px;
+    text-align: center;
+    background-color: black;
+    padding-top: 80px;
+}
+
+.word-flower-color{
+    color: #E55473;;
+
+}
+
+.word-shop-color{
+    color: #FFF;
+
+}
+
+.footer-paragraph{
+    color: rgba(255, 255, 255, 0.90);
+}
+
+.footer-copy-rights{
+    color: rgba(255, 255, 255, 0.40);
+
+}
+
+
+
+
+
